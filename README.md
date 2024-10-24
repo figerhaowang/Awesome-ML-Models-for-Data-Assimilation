@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7244076e-2062-4987-b60d-be4f28152d48)![image](https://github.com/user-attachments/assets/a07902dc-f00f-4c52-a513-07177c786ad6)# Awesome Machine Learning Models for Data Assimilation
+# Awesome Machine Learning Models for Data Assimilation
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
