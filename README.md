@@ -24,3 +24,5 @@ We will continue to update this list with the newest resources. If you find any 
 ## Other Methods
 * FNP: Fourier Neural Processes for Arbitrary-Resolution Data Assimilation, in *NeurIPS* 2024, [\[paper\]](https://arxiv.org/abs/2406.01645)
 * DEEP BAYESIAN FILTER FOR BAYES-FAITHFUL DATA ASSIMILATION, in *ICLR* 2024 under review, [\[paper\]](https://arxiv.org/abs/2405.18674)
+
+```
