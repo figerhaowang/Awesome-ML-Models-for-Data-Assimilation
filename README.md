@@ -1,1 +1,1 @@
-# Awesome-ML-Models-for-Data-Assimilation
+# Awesome Machine Learning Models for Data Assimilation
