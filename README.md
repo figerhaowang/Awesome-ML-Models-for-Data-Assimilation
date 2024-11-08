@@ -16,7 +16,7 @@ We will continue to update this list with the newest resources. If you find any 
 * DiffDA: A Diffusion Model for Weather-scale Data Assimilation, in *ICML* 2024, [\[paper\]](https://arxiv.org/abs/2401.05932)  [\[official code\]](https://github.com/spcl/DiffDA)
 * Score-based Data Assimilation, in *NeurIPS* 2023, [\[paper\]](https://arxiv.org/abs/2306.10574) [\[official code\]](https://github.com/francois-rozet/sda)
 * Deep Generative Data Assimilation in Multimodal Setting, in *CVPR workshop* 2024, [\[paper\]](https://arxiv.org/abs/2404.06665)  [\[official code\]](https://github.com/YONGQUAN-QU/SLAMS)
-* Generative Data Assimilation of Sparse Weather Station Observations at Kilometer Scales, submitted to *JAMES* 2024, [\[paper\]](https://arxiv.org/abs/2406.16947)   [\[official code\]](https://github.com/NVlabs/edm)
+* Generative Data Assimilation of Sparse Weather Station Observations at Kilometer Scales, submitted to *JAMES* 2024, [\[paper\]](https://arxiv.org/abs/2406.16947)  
 ## VAE Models for Data Assimilation
 * VAE-Var: Variational-Autoencoder-Enhanced Variational Assimilation, in *ICLR* 2024 under review, [\[paper\]](https://arxiv.org/abs/2405.13711)
 * Latent-EnSF: A Latent Ensemble Score Filter for High-Dimensional Data Assimilation with Sparse Observation Data, in *ICLR* 2024 under review, [\[paper\]](https://arxiv.org/abs/2409.00127)
